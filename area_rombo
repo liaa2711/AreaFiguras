@@ -1,0 +1,7 @@
+diagonal_mayor = float(input("Ingresa la diagonal mayor del rombo: "))
+diagonal_menor = float(input("Ingresa la diagonal menor del rombo: "))
+
+area = (diagonal_mayor * diagonal_menor) / 2
+
+print(f"El área del rombo es: {area}")
+print("codigo hecho por omar y flor")
