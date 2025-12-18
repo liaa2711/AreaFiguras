@@ -1,0 +1,9 @@
+===========================
+("AREA DE TRIANGULO")
+===========================
+base = float(input("Ingresa la base del triangulo: "))
+altura = float(input("Ingresa la aultura del triangulo: "))
+area = (base * altura) / 2
+print("EL area del triangulo es:", area)
+===========================
+print("codigo realizado por Jorge cayetano"
